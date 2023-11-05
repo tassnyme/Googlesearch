@@ -1,0 +1,221 @@
+#span1{
+    font-size: 16px;
+}
+.h4then{
+    font-size: 100px;
+    margin-top: 140px;
+
+}
+
+#sec4{
+    margin-left: 30px;
+    margin-top: -380px;
+}
+#sec3{
+    margin-left: 30px;
+    
+}
+#sec2{
+    margin-left: 30px;
+    
+}
+#sec1{
+    margin-left: 50px;
+    
+}
+.in1{
+    position: relative;
+    left: 500px;
+}
+.in5{
+    position: relative;
+    left: 100px;
+    width: 390px;
+}
+.in6{
+    position: relative;
+    left: 85px;
+    width: 390px;
+}
+.in4{
+    position: relative;
+    left: 106px;
+    width: 390px;
+}
+.in3{
+    position: relative;
+    left: 66px;
+    width: 390px;
+}
+.in2{
+    position: relative;
+    left: 131px;
+    width: 390px;
+}
+.in7{
+    position: relative;
+    left: 15px;
+    width: 390px;
+}
+.to{
+    margin-left: 100px;
+    font-size: 18px;
+}
+.ph_google{
+    width :80px;
+    position:relative;
+    left:20px;
+    
+}
+h1{
+    color: rgb(217, 31, 31);
+    font-size: smaller;
+    position: relative;
+    left: 30px;
+
+}
+#language{
+    position: relative;
+    top:-25px ;
+    left: 140px;
+    width: 400px;
+    height: 30px;
+    font-size: 16px;
+    background-color: rgb(242, 243, 244);
+}
+#region{
+    position: relative;
+    top:-25px ;
+    left: 150px;
+    height: 30px;
+    font-size: 16px;
+    width: 400px;
+    background-color: rgb(242, 243, 244);
+
+}
+#update{
+    position: relative;
+    top:-25px ;
+    left: 150px;
+    height: 30px;
+    font-size: 16px;
+    width: 400px;
+    background-color: rgb(242, 243, 244);
+
+}
+#terms{
+    position: relative;
+    top:-25px ;
+    left: 175px;
+     width: 400px;
+     height: 30px;
+    font-size: 16px;
+    background-color: rgb(242, 243, 244);
+
+}
+
+#file{
+    position: relative;
+    top:-25px ;
+    left: 150px;
+    height: 30px;
+    font-size: 16px;
+    width: 400px;
+    background-color: rgb(242, 243, 244);
+
+}
+#usage{
+    position: relative;
+    top:-20px ;
+    left: 170px;
+     width: 400px;
+     height: 30px;
+    font-size: 16px;
+}
+.regiond{
+    position: relative;
+    top: -60px;
+    border-radius: 15px;
+    width: 400px;
+}
+.updated{
+    position: relative;
+    top: -120px;
+    width: 400px;
+}
+.sited{
+    position: relative;
+    top: -180px;
+}
+.sec4{
+    position: relative;
+    top: 95cm;
+}
+.termsd{
+    position: relative;
+    top: -205px;
+}
+.filed{
+    position: relative;
+    top: -265px;
+}  
+    
+.usaged{
+    position: relative;
+    top: -325px;
+}
+button{
+    position: relative;
+    top: -290px;
+    left: 250px;
+}
+.in1{
+    position: relative;
+    left:95px;
+    width: 395px;
+}
+#language:hover{
+    background-color: rgb(224, 224, 224);
+}
+
+
+
+.div7{
+   
+    position: relative;
+    top: 50px;
+    
+}
+
+h4{
+    font-size: 16px;
+}
+.span2{
+   font-size: 15px; 
+}
+.h4then{
+    font-size: 47px;
+}
+.div5{
+    position: relative;
+    top: 60px;
+}
+.div4{
+    position: relative;
+    top: 50px;
+}
+.div3{
+    position: relative;
+    top: 40px;
+}
+.div2{
+    position: relative;
+    top: 30px;
+}
+.div1{
+    position: relative;
+    top: 20px;
+}
+#region:hover,#update:hover,#site:hover,#terms:hover,#file:hover,#usage:hover{
+    background-color: rgb(224, 224, 224);}
+

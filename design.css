@@ -1,0 +1,62 @@
+.phgoogle{
+    width: 500px;
+    
+}
+.div1{position: relative;
+    left: 450px;
+    top:150px;
+    
+}
+.div2{
+position: relative;
+    left: 1050px;
+    top:30px;
+}
+.link{
+   font-size: 20px;
+   border-radius: 10px;
+   cursor: pointer;
+   border: 1px solid rgba(19, 185, 130, 0.74) ;
+   
+
+}
+.link:hover{
+    background-color:rgba(19, 185, 130, 0.74) ;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+.boxinput{
+    width: 500px; /* Set the width of the input box */
+    padding: 10px; /* Add padding to provide space inside the input box */
+    border: 1px solid #ccc; /* Add a border with a light gray color */
+    border-radius: 25px; /* Add rounded corners */
+    font-size: 16px; /* Set the font size */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    height:30px
+}
+
+.search{
+    width: 250px; /* Set the width of the input box */
+    padding: 10px; /* Add padding to provide space inside the input box */
+    border: 1px solid #ccc; /* Add a border with a light gray color */
+    border-radius: 25px; /* Add rounded corners */
+    font-size: 16px; /* Set the font size */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    
+}
+.speech:hover{
+    background-color: rgb(181, 186, 186);
+}
+.search:hover{
+    background-color: rgb(181, 186, 186);
+
+}
+.speech{
+    width: 250px; /* Set the width of the input box */
+    padding: 10px; /* Add padding to provide space inside the input box */
+    border: 1px solid #ccc; /* Add a border with a light gray color */
+    border-radius: 25px; /* Add rounded corners */
+    font-size: 16px; /* Set the font size */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
